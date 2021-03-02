@@ -1,5 +1,0 @@
-batata,100,1
-arroz,130,1
-trigo,300,1
-cenoura,175,1
-beterraba,200,1
